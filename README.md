@@ -6,7 +6,8 @@ python -m venv ll_env --> here ll_env is a name of a virtual environment
 
 ## Activating the Virtual Environment
 
-source ll_env/Scripts/activate
+bash: source ll_env/Scripts/activate
+cmd: ll_env\Scripts\activate
 
 ## Deactivating the Virtual Environment
 
